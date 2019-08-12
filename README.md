@@ -1,5 +1,5 @@
 # downOrNot
-Website UP or DOWN Checker
+Website UP or DOWN Checker <br/>
 _Simple script for checking if a website is DOWN or UP._
 
 ## Logo
