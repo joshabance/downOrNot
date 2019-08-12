@@ -14,5 +14,8 @@ _Simple script for checking if a website is DOWN or UP._
 * requests
 * socket
 
+##Version
+downOrNot v0.1
+
 ## Author
 #### Anna Kushina (joshabance)
