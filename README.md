@@ -14,7 +14,7 @@ _Simple script for checking if a website is DOWN or UP._
 * requests
 * socket
 
-##Version
+## Version
 downOrNot v0.1
 
 ## Author
