@@ -1,6 +1,6 @@
 # downOrNot
 Website UP or DOWN Checker
-Simple script for checking if a website is DOWN or UP.
+_Simple script for checking if a website is DOWN or UP._
 
 ## Logo
 ![downOrNot Logo](/logo.png)
